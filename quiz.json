@@ -1,0 +1,26 @@
+{
+    "Soal" : ["Yang termasuk bahasa pemrograman yaitu, kecuali....",
+        "Jika jenis inputan berupa angka, jenis tipe data yang digunakan adalah...",
+        "Sebuah method pada OOP yang digunakan untuk memberikan nilai pada suatu atribut adalah....",
+        "Yang termasuk jenis access mode modifier yaitu...",
+        "Sebuah operasi dalam stack yang berfungsi untuk memasukkan nilai atau data adalah...",
+        "Pemesanan tempat memory variable dan tipe data atau fungsi tertentu adalah....",
+        "Langkah-langkah penyelesaian masalah secara logis dan sistematis adalah....",
+        "Setiap perintah dalam project C++ selalu diakhiri dengan tanda....",
+        "Hubungan antara angka dan huruf disebut....",
+        "Menyatakan fungsi utama berakhir di running di jalankan tanpa error adalah fungsi dari..."
+    ],
+    "Pilihan" : [["Java", "Python", "Queue"],
+            ["String", "Integer", "Array"],
+            ["Setter", "Getter", "Push"],
+            ["Private dan Public", "Protected dan Default", "Semua pilihan benar"],
+            ["Pop", "Push", "Top"],
+            ["Deklarasi", "Nilai data", "Algoritma"],
+            ["Flow Chart", "Algoritma", "Deklarasi"],
+            ["'", ",", ";"],
+            ["String", "Variable", "Boolean"],
+            ["return()", "getch", "conio.h"]            
+    ],
+    "Jawaban" : [ 3, 2, 1, 3, 2, 1, 2, 3, 2, 1 ]
+}
+
